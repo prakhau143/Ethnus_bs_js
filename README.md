@@ -1,1 +1,2 @@
-# Ethnus_bs_js
+All Tasks : 
+All the mern ethnus tasks are uploaded here.
